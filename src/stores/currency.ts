@@ -6,11 +6,11 @@ export const useCurrencyStore = defineStore("currency", {
   state: (): CurrencyState => ({
     from: {
       value: 1,
-      type: ''
+      type: "",
     },
     to: {
       value: 0,
-      type: ''
+      type: "",
     },
   }),
   actions: {
@@ -18,7 +18,7 @@ export const useCurrencyStore = defineStore("currency", {
       let response: Record<string, CurrencyData> = {};
 
       await axios
-        .get(`http://www.floatrates.com/daily/${currency}.json`)
+        .get(`https://www.floatrates.com/daily/${currency}.json`)
         .then((res) => (response = res.data));
 
       return response;

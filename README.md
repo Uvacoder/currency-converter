@@ -1,12 +1,12 @@
 # Currency Converter
 
-Get fast and easy calculator for converting one currency to another using the latest live exchange rates from http://www.floatrates.com/
+Get fast and easy calculator for converting one currency to another using the latest live exchange rates from https://www.floatrates.com/
 
 ## Demo
 
 #
 
-You can try out the app at:
+You can try out the app at: https://currency-converter-l8gapnn1m-xfvelocity.vercel.app/
 
 ## Testing
 
