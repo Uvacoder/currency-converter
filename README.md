@@ -6,7 +6,7 @@ Get fast and easy calculator for converting one currency to another using the la
 
 #
 
-You can try out the app at: https://currency-converter-l8gapnn1m-xfvelocity.vercel.app/
+You can try out the app at: https://currency-converter-zeta-gilt.vercel.app/
 
 ## Testing
 
